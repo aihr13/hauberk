@@ -1,1 +1,4 @@
 image: google/dart:2.8
+
+tasks:
+  - init: echo 'export PATH="$PATH:/usr/lib/dart/bin"' >> ~/.bash_profile
