@@ -1,4 +1,4 @@
 image:
-  file: .gitpod.dockerfile
+  file: .gitpod.Dockerfile
 tasks:
   - init: echo 'export PATH="$PATH:/usr/lib/dart/bin"' >> ~/.bash_profile
